@@ -1,0 +1,16 @@
+{
+  "name": "citadels-room",
+  "version": "1.0.0",
+  "private": true,
+  "description": "富饶之城 在线房间服务（WebSocket 中继）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
